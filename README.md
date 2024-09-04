@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data science and ML projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omarmendoza19-works/Portafolio](https://github.com/omarmendoza19-works/Portafolio)
+- 👨‍💻 All of my projects are available at [https://github.com/omarmendoza19-works/My-portfolio-in-Jupyter-Notebooks)
 
 - 💬 Ask me about **Python, SQLite, Power BI,Orange**
 
